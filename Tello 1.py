@@ -9,6 +9,7 @@ dron.connect()
 
 ##Revisar bateria
 x = dron.get_battery()
+print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
 print('Battery: ', x)
 
 ##Despegar
